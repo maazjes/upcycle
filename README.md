@@ -20,3 +20,5 @@
 | Changed react router native to react native navigation and added a bottom nav bar. | 10 hours |
 
 **Total: 142 hours**
+
+Plus some additional hours on 

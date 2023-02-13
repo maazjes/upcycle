@@ -21,4 +21,4 @@
 
 **Total: 142 hours**
 
-Plus some additional hours on 
+Plus many more additional hours on stupid mistakes

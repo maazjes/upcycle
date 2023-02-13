@@ -1,4 +1,3 @@
-Initialized expo app with typescript and eslint // 3 hours
 Added a very basic profile page to frontend // 2 hours
 Added express backend with eslint and typescript // 2 hours
 Added login system to backend and an endpoint for image uploads to amazon aws. Started making a new post form to frontend. // 6 hours
@@ -15,4 +14,10 @@ update posts etc... // 12 hours
 added favorites page and function for adding favorites and fixed bugs // 12 hours
 Integrated firebase authentication, added profile photos to users. Also took a lot of time to change from CommonJS to ESM so I could use the GOT package
 in backend // 16 hours
-total: 132 hours hours
+changed react router native to react native navigation and added a bottom nav bar // 10 hours
+total: 142 hours hours
+
+| Tasks  | Time used |
+| ------------- | ------------- |
+| Initialized expo app with typescript and eslint  | 3 hours  |
+| Content Cell  | Content Cell  |

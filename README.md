@@ -16,8 +16,7 @@
 | Updated the schemas in the backend by adding a lot of new stuff. | 12 hours |
 | Started making masonry list for the front page, added new post fields to db and expanded the post form. | 12 hours |
 | Added favorites view and a function for adding favorites, fixed bugs. | 12 hours |
-| Integrated Firebase authentication, added profile photos to users. Also took a lot of time to change from CommonJS to ESM so I could use the GOT library
-in the backend. | 16 hours |
+| Integrated Firebase authentication, added profile photos to users. Also took a lot of time to change from CommonJS to ESM so I could use the GOT library in the backend. | 16 hours |
 | Changed react router native to react native navigation and added a bottom nav bar. | 10 hours |
 
 **Total: 142 hours**
